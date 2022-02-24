@@ -1,4 +1,4 @@
-# caption-generator
+# github.io
 Generator making captions so you don't have to
 
 # how to add new categories + captions
